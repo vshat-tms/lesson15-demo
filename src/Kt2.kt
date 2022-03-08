@@ -5,8 +5,6 @@ fun main4() = listOf(1, 2, 3, 4, 5)
 
 
 
-fun myForeach
-
 fun main() {
     val result = listOf(1, 2, 3, 4, 5) + listOf(5, 6, 7)
     println(result)
